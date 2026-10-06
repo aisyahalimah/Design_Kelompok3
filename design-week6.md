@@ -58,7 +58,7 @@ yang dipilih pengguna.
 
 - Modul Informasi Lowongan Magang  
   -> Menampilkan perusahaan yang memberikan kesempatan magang beserta dengan informasi mengenai perusahaan tersebut.
-- Modul Pencarian & rekomendasi  
+- Modul Pencarian & Rekomendasi  
   -> Membantu mahasiswa mencari lowongan magang berdasarkan kriteria yang diinginkan.
 - Modul Komentar  
   -> Menampilkan komentar maupun berbagi pengalaman mengenai perusahaan tempat mahasiswa magang. 
