@@ -50,4 +50,8 @@ lowongan, seperti lokasi, bidang pekerjaan, dan periode magang.
 
 Data yang terstruktur membuat proses filtering lebih konsisten
 dan memudahkan sistem mencocokkan lowongan dengan kriteria
-yang dipilih pengguna.
+yang dipilih pengguna.  
+
+## 5. Kebutuhan & Tanggung Jawab Modul  
+
+- Modul 
