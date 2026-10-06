@@ -31,3 +31,23 @@ sesuai dengan kebutuhan dan preferensi pengguna.
 - Data lowongan tersimpan di dalam database.
 - Pengguna tidak harus login untuk menggunakan fitur pencarian
   dan filter lowongan.
+
+## 4. Keputusan Desain
+
+### 4.1 Kombinasi Beberapa Filter
+
+Sistem memungkinkan pengguna menggunakan beberapa filter
+secara bersamaan.
+
+Penggunaan beberapa filter membantu pengguna mempersempit
+hasil pencarian sehingga lowongan yang ditampilkan lebih
+sesuai dengan kebutuhan mereka.
+
+### 4.2 Filter Menggunakan Data Terstruktur
+
+Sistem menggunakan atribut yang telah ditentukan pada data
+lowongan, seperti lokasi, bidang pekerjaan, dan periode magang.
+
+Data yang terstruktur membuat proses filtering lebih konsisten
+dan memudahkan sistem mencocokkan lowongan dengan kriteria
+yang dipilih pengguna.
