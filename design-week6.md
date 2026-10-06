@@ -5,7 +5,7 @@ Kelompok 3 :
 - Aura Alifia Maulana 1251420004
 - Khansa Dayana 1251420129
 
-## 1. Pencarian Lowongan
+## 1. Filter Pencarian Lowongan
 
 Fitur ini memungkinkan pengguna untuk menyaring daftar lowongan
 berdasarkan kriteria tertentu agar dapat menemukan lowongan yang
